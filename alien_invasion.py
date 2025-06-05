@@ -12,6 +12,7 @@ class AlienInvasion:
         pygame.init()
         self.clock = pygame.time.Clock()
         self.screen = pygame.display.set_mode((1200, 800))
+        pygame.display.set_caption("Alien Invasion")
     
     def run_game(self):
         """
