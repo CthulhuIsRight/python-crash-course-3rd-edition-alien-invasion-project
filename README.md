@@ -1,2 +1,2 @@
 # python-crash-course-3rd-edition-alien-invasion-project
-This space is for documentation of my iterative personal progress on the Alien Invasion tutorial in Python Crash Course 3rd Edition.
+This is a seperate repository from my notes to keep track of my progress. This is mainly to practice good GitHub hygiene, and to practice Python fundamentals as well to stay sharp. I will shall link from my original notes in a separate repository to this project to show documentation of my personal work, and shall put a backlink here as well once my notes are up.
