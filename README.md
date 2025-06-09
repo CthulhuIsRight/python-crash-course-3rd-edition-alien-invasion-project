@@ -3,7 +3,11 @@ This is a seperate repository from my notes to keep track of my progress. This i
 
 # Attributions
 - Player Ship Sprite
-    - Artist: Tummyache
-    - [Artist Profile](https://opengameart.org/users/tummyache)
+    - Artist: [Tummyache](https://opengameart.org/users/tummyache)
     - [Asset Link](https://opengameart.org/content/purple-space-ship)
     - License as of 04JUN2025: CC0 1.0 Universal (Public Domain)
+
+- Alien Ship Sprite
+    - Artist: [Technozomians](https://opengameart.org/users/technozomians)
+    - [Asset Link](https://opengameart.org/content/technozomians-alien)
+    - License as of 09JUN2025: CC-BY 3.0
