@@ -74,6 +74,7 @@ class AlienInvasion:
         """
         button_clicked = self.play_button.rect.collidepoint(mouse_pos)
         if button_clicked and not self.game_active:
+            self.settings.initalize_dynamic_settings()
             self.stats.reset_stats()
             self.game_active = True
 
